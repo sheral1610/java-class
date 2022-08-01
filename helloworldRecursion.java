@@ -11,14 +11,16 @@ Scanner scanner = new Scanner(System.in);
 {
  System.out.println("Enter any number between 1 and 9");
  enteredNumber = scanner.nextInt();
-}
 for(int j =0;j<i;j++)
 {
 System.out.println("Hello world ");
+
+
 }
-{ 
  i++;
- }
+
+}
+
 System.out.println("Bye Bye");
  }
 }
